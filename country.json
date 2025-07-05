@@ -11,7 +11,7 @@
   {
     "id": 2,
     "cnname": "奥兰群岛",
-    "name": "Aland Islands",
+    "name": "Åland Islands",
     "fullname": "",
     "alpha2": "AX",
     "alpha3": "ALA",
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "cnname": "巴哈马",
-    "name": "Bahamas (The)",
+    "name": "Bahamas (the)",
     "fullname": "the Commonwealth of The Bahamas",
     "alpha2": "BS",
     "alpha3": "BHS",
@@ -704,7 +704,7 @@
   {
     "id": 79,
     "cnname": "冈比亚",
-    "name": "Gambia (The)",
+    "name": "Gambia (the)",
     "fullname": "the Republic of The Gambia",
     "alpha2": "GM",
     "alpha3": "GMB",
@@ -1632,7 +1632,7 @@
     "id": 184,
     "cnname": "圣赫勒拿",
     "name": "Saint Helena",
-    "fullname": "",
+    "fullname": "Saint Helena, Ascension and Tristan da Cunha",
     "alpha2": "SH",
     "alpha3": "SHN",
     "numeric": 654
@@ -2167,5 +2167,95 @@
     "alpha2": "ZW",
     "alpha3": "ZWE",
     "numeric": 716
+  },
+  {
+    "id": 245,
+    "cnname": "圣巴泰勒米",
+    "name": "Saint Barthélemy",
+    "fullname": "the Collectivity of Saint Barthélemy",
+    "alpha2": "BL",
+    "alpha3": "BLM",
+    "numeric": 652
+  },
+  {
+    "id": 246,
+    "cnname": "荷属加勒比区（博内尔、圣尤斯特歇斯和萨巴）",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "fullname": "Bonaire, Sint Eustatius and Saba",
+    "alpha2": "BQ",
+    "alpha3": "BES",
+    "numeric": 535
+  },
+  {
+    "id": 247,
+    "cnname": "库拉索",
+    "name": "Curaçao",
+    "fullname": "Country of Curaçao",
+    "alpha2": "CW",
+    "alpha3": "CUW",
+    "numeric": 531
+  },
+  {
+    "id": 248,
+    "cnname": "中国香港",
+    "name": "Hong Kong",
+    "fullname": "Hong Kong Special Administrative Region of China",
+    "alpha2": "HK",
+    "alpha3": "HKG",
+    "numeric": 344
+  },
+  {
+    "id": 249,
+    "cnname": "法属圣马丁",
+    "name": "Saint Martin (French part)",
+    "fullname": "the Collectivity of Saint-Martin",
+    "alpha2": "MF",
+    "alpha3": "MAF",
+    "numeric": 663
+  },
+  {
+    "id": 250,
+    "cnname": "中国澳门",
+    "name": "Macao",
+    "fullname": "Macao Special Administrative Region of China",
+    "alpha2": "MO",
+    "alpha3": "MAC",
+    "numeric": 446
+  },
+  {
+    "id": 251,
+    "cnname": "南苏丹",
+    "name": "South Sudan",
+    "fullname": "Republic of South Sudan",
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "numeric": 728
+  },
+  {
+    "id": 252,
+    "cnname": "荷属圣马丁",
+    "name": "Sint Maarten (Dutch part)",
+    "fullname": "Country of Sint Maarten",
+    "alpha2": "SX",
+    "alpha3": "SXM",
+    "numeric": 534
+  },
+  {
+    "id": 253,
+    "cnname": "中国台湾",
+    "name": "Taiwan",
+    "fullname": "Taiwan, Province of China",
+    "alpha2": "TW",
+    "alpha3": "TWN",
+    "numeric": 158
+  },
+  {
+    "id": 254,
+    "cnname": "科索沃",
+    "name": "Kosovo",
+    "fullname": "Republic of Kosovo",
+    "alpha2": "XK",
+    "alpha3": "XKX",
+    "numeric": 0
   }
 ]
